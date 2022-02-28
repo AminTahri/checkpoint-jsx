@@ -1,0 +1,57 @@
+.Logoo{
+    width: 103px;
+    margin-left: 300px;
+}
+.d-flex{
+    margin-left: 200px;
+    width: 268px;
+    height: 36px;
+    margin-top: -5px;
+}
+.acceuil{
+width: 24px;
+height: 24px;
+/* margin-right:500px ; */
+}
+.msg{
+width: 24px;
+height: 24px;
+/* margin-right:500px ; */
+}
+.pub{
+    width: 24px;
+    height: 24px;
+}
+.exp{
+    width: 24px;
+    height: 24px; 
+}
+.like{
+    width: 24px;
+    height: 24px;
+    /* margin-left:20px ; */
+}
+.profil{
+    width: 27px;
+    height: 27px;
+    border-radius: 20px 20px 20px 20px;
+    /* margin-left: 150px; */
+}
+.menuo{
+    margin-right: 450px;
+    display: flex;
+    justify-content:space-around;
+    
+}
+
+img{
+    margin: 10px;
+    margin-top: 5px;
+}
+hr{
+    margin-top: -10px;
+    color:gainsboro;
+}
+.navi{
+    position: fixed;
+}

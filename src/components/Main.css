@@ -1,0 +1,63 @@
+.story{
+    width: 5px;
+    margin-top: 80px;
+    display: flex;
+    margin-left: 340px;
+    border: 50%;
+}
+.ahmed{
+    width: 60px;
+    height: 60px;
+    border-radius: 60px;}
+p{
+    font-size: 12px;
+}
+
+.Luis{
+    width: 50px;
+    border-radius: 30px;
+    margin-top: 20px;
+}
+.Pab{
+    display: flex;
+    /* justify-content: space-around; */
+    margin-left: 320px;
+}
+.PAbPh{
+    width:500px ;
+    height:600px ;
+    margin-left: 150px;
+    
+}
+.nom{
+    margin-top: 20px;
+    font-size: 20px;
+    margin-top: 30px;
+}
+.point{
+    margin-left: 310px;
+    font-size: 50px;
+}
+.bout{
+    width: 30px;
+    height: 30px;
+    margin-left:-50px;
+    margin-right: 100px;
+    
+}
+
+.enrg{
+    margin-left: 600px;
+    margin-top: -70px;
+}
+
+.adore{
+    margin-right: 100px;
+    font-size: 16px;
+    margin-top: -20px;
+    margin-left: -170px;
+}
+.heur{
+    margin-right: 250px;
+    color: grey;
+}
