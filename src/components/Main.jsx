@@ -49,6 +49,48 @@ const Main = () => {
 
     </div>
 
+    <div box1>
+      <div className='Pab'>
+         <div> <img className='Maria' src="https://i.pinimg.com/474x/b2/2c/2a/b22c2aa88122bdfd6a7e04cf7a138673.jpg" alt="" /></div>
+         <div> <p className='nom'>Maria</p></div>
+         <div><p className='point'>...</p></div>
+      </div>
+
+      <div><img className='PAbPh' src="http://femmedinfluence.fr/wp-content/uploads/2018/01/CAPUCINES4.jpg" alt="" /></div>
+
+    <div>
+      <img className='bout' src="https://img.icons8.com/ios/344/hearts--v1.png" alt="" />
+      <img className='bout' src="https://img.icons8.com/ios/344/topic.png" alt="" />
+      <img className='bout' src="https://img.icons8.com/windows/344/filled-sent.png" alt="" />
+    </div>
+    <div><img className='enrg' src="https://img.icons8.com/small/344/bookmark-ribbon.png" alt="" /></div>
+    <div><p className='adore'> 852 J’aime</p></div>
+    <div><p className='heur'>IL Y A 24 HEURES</p></div>
+
+
+    </div>
+
+
+    <div box1>
+      <div className='Pab'>
+         <div> <img className='Sandra' src="https://laviedesreines.com/wp-content/uploads/2021/07/beautiful-confident-blonde-woman-black-suit-scaled.jpg" alt="" /></div>
+         <div> <p className='nom'>Sandra</p></div>
+         <div><p className='point'>...</p></div>
+      </div>
+
+      <div><img className='PAbPh' src="https://fitostic.com/wp-content/uploads/2020/07/always-been-a-girly-girl-pantalones-de-moda-pantalones-1.jpg" alt="" /></div>
+
+    <div>
+      <img className='bout' src="https://img.icons8.com/ios/344/hearts--v1.png" alt="" />
+      <img className='bout' src="https://img.icons8.com/ios/344/topic.png" alt="" />
+      <img className='bout' src="https://img.icons8.com/windows/344/filled-sent.png" alt="" />
+    </div>
+    <div><img className='enrg' src="https://img.icons8.com/small/344/bookmark-ribbon.png" alt="" /></div>
+    <div><p className='adore'> 4586 J’aime</p></div>
+    <div><p className='heur'>IL Y A 18 HEURES</p></div>
+
+
+    </div>
 
 
      </div>

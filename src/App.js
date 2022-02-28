@@ -17,7 +17,7 @@ function App() {
       
       <div className="row">
       <div className="col-8"><Main/> </div>
-       <div className="col-4"><Abonne/></div>
+      <div className="col-2"><Abonne/></div>
 
        </div>
      
